@@ -55,6 +55,10 @@ li:first-child {
 #storkPic {
     margin-left: 20%;
 }
+#floydStork {
+    width: 200px;
+    height: 400px;
+}
 
 .icon {
     height: 200px;
